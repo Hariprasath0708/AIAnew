@@ -36,7 +36,7 @@ var maxResendOtp = document.getElementById("maxResendOtp");
 var invalidOtp = 0;
 var scanDoc = false;
 var payoutOption;
-var isChangeInBankDetails = "N";
+var isChangeInBankDetails = "N"; 
 var isChangeInPayoutOption = "N";
 var isOtpPopShown = false;
 var fileSizeZero = false;
